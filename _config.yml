@@ -21,22 +21,22 @@ repository               : "billwan-zzzyyy/billwan-zzzyyy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/avatar.png"
   name             : "Zhengyang Wan [万正阳]"
   pronouns         : # example: "she/her"  
   bio              : "M.E in Transportation Engineering"
   location         : "Shanghai, China"
-  employer         : "Wild Chicken University"
+  employer         : "TongJi University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2233474@tongji.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.hk/citations?user=6m8LnLUAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-2691-8389"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
