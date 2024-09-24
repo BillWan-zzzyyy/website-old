@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](files/CV_Zhengyang Wan_Tongji University.pdf) (last updated Sept, 2024)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.E. in Transportation Engineering, Tongji University, 2025 (Advisor: Dr. Hechao Zhou)
+* B.E. in Vehicle Engineering, Tongji Univeristy, 2022
 
 Work experience
 ======
