@@ -21,7 +21,7 @@ repository               : "billwan-zzzyyy/billwan-zzzyyy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/avatar.png"
+  avatar           : "avatar.png"
   name             : "Zhengyang Wan [万正阳]"
   pronouns         : # example: "she/her"  
   bio              : "M.E in Transportation Engineering"
