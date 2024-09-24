@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-please find the detailed CV [here](files/CV_Zhengyang Wan_Tongji University.pdf). (last updated Sept, 2024)
+
+* please find the detailed CV [here](files/CV_Zhengyang Wan_Tongji University.pdf). (last updated Sept, 2024)
 
 Education
 ======
