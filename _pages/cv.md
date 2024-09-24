@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV (last updated Sept, 2024)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-please find the detailed CV [here](files/CV_Zhengyang Wan_Tongji University.pdf).
+please find the detailed CV [here](files/CV_Zhengyang Wan_Tongji University.pdf). (last updated Sept, 2024)
 
 Education
 ======
