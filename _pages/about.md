@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! I am Zhengyang Wan. Currently I am pursuing M.E in Transportation Engineering at Tongji University in Shanghai, China. 
+Hello there! I am Zhengyang Wan, "万正阳" in Chinese. Currently I am pursuing M.E in Transportation Engineering at [College of Transportation Engineering](https://tjjt.tongji.edu.cn/), Tongji University in Shanghai, China. I am very fortunate to be advised by Associate Professor [Hechao Zhou](https://tjjt.tongji.edu.cn/info/2943/10933.htm) and Professor [Jimin Zhang](https://railway.tongji.edu.cn/c5/e6/c4609a50662/page.htm), Tongji University.
+You can find my CV here: [Zhengyang Wan's Curriculum Viate](../files/CV_ZhengyangWan.pdf)
 
 A data-driven personal website
 ======
@@ -20,6 +21,7 @@ Getting started
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
 
 Create content & metadata
 ------
