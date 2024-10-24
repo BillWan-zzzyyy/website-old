@@ -13,8 +13,7 @@ Currently I am pursuing M.E in Transportation Engineering at [College of Transpo
 
 You can find my CV here: [Zhengyang Wan's Curriculum Viate](../files/CV_ZhengyangWan.pdf)
 
-> [!NOTE]
-> 
+> 📢***Note:***
 > This website is still under development. Please check back later for the full version and updates. Last updates: 2024-10-24.
 
 Education
