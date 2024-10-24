@@ -9,11 +9,11 @@ redirect_from:
 
 Hello there! I am Zhengyang Wan, "万正阳" in Chinese. 
 
-Currently I am pursuing M.E in Transportation Engineering at [College of Transportation Engineering](https://tjjt.tongji.edu.cn/), Tongji University in Shanghai, China. I am very fortunate to be advised by Associate Professor [Hechao Zhou](https://tjjt.tongji.edu.cn/info/2943/10933.htm) and Professor [Jimin Zhang](https://railway.tongji.edu.cn/c5/e6/c4609a50662/page.htm), Tongji University.
+Currently I am pursuing M.E in Transportation Engineering at [College of Transportation Engineering](https://tjjt.tongji.edu.cn/), Tongji University in Shanghai, China. I am very fortunate to be advised by Associate Professor [Hechao Zhou](https://tjjt.tongji.edu.cn/info/2943/10933.htm) and Professor [Jimin Zhang](https://railway.tongji.edu.cn/c5/e6/c4609a50662/page.htm).
 
 You can find my CV here: [Zhengyang Wan's Curriculum Viate](../files/CV_ZhengyangWan.pdf)
 
-A data-driven personal website
+Education
 ======
 
 
