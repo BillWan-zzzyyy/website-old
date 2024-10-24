@@ -13,12 +13,17 @@ Currently I am pursuing M.E in Transportation Engineering at [College of Transpo
 
 You can find my CV here: [Zhengyang Wan's Curriculum Viate](../files/CV_ZhengyangWan.pdf)
 
+> [!NOTE]
+> This website is still under development. Please check back later for the full version and updates. Last updates: 2024-10-24.
+
 Education
 ======
-
-
-Getting started
-======
+- **Ph.D.**
+- **M.E in Transportation Engineering, 2025 (Expected)**
+    - College of Transportation Engineering, Tongji University, China
+    - Advisor: Associate Professor. Hechao Zhou
+- **B.E in Vehicle Engineering, 2022**
+    - Institute of Rail Transit, Tongji University, China
 
 
 Site-wide configuration
