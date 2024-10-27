@@ -11,9 +11,13 @@ paperurl: 'https://journals.sagepub.com/doi/full/10.1177/09544070241280744
         
         
         
+        
+        
         '
         
 citation: 'Zhou H, Wan Z, Mei M, Zhang J, Hecht M. Study of the tire wear of virtual track train. Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering. 2024;0(0). doi:10.1177/09544070241280744
+        
+        
         
         
         
