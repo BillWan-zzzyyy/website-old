@@ -23,6 +23,22 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Work experience
+======
+* Spring 2022: Data analyst Intern
+  * Cargill Investment China Ltd
+
+Skills
+======
+* MATLAB & SIMULINK
+* SIMPACK
+* CARLA
+* Ubuntu
+  
+Service and leadership
+======
+* Chairman of Tongji Football Association (2021.9-2022.9)
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -34,23 +50,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-Skills
-======
-* MATLAB & SIMULINK
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-  
-Service and leadership
-======
-* Chairman of Tongji Football Association (2021.9-2022.9)
