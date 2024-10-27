@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-* please find the detailed CV [here](http://billWan-zzzyyy.github.io/files/CV_ZhengyangWan.pdf). (last updated Sept, 2024)
+* please find pdf version of my CV here: [here](http://billWan-zzzyyy.github.io/files/CV_ZhengyangWan.pdf). (last updated Sept, 2024)
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.E. in Transportation Engineering, Tongji University, 2025 (Advisor: Dr. Hechao Zhou)
+* Ph.D in
+* M.E. in Transportation Engineering, Tongji University, 2025
 * B.E. in Vehicle Engineering, Tongji Univeristy, 2022
 
 Publications
