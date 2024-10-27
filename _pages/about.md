@@ -9,9 +9,10 @@ redirect_from:
 
 Hello there! I am Zhengyang Wan, "万正阳" in Chinese. 
 
-Currently I am pursuing M.E in Transportation Engineering at [College of Transportation Engineering](https://tjjt.tongji.edu.cn/), Tongji University in Shanghai, China. I am very fortunate to be advised by Associate Professor [Hechao Zhou](https://tjjt.tongji.edu.cn/info/2943/10933.htm) and Professor [Jimin Zhang](https://railway.tongji.edu.cn/c5/e6/c4609a50662/page.htm).
+Currently I am pursuing M.E in Transportation Engineering at [College of Transportation Engineering](https://tjjt.tongji.edu.cn/), Tongji University in Shanghai, China. I am very fortunate to be advised by A.P. [Hechao Zhou](https://tjjt.tongji.edu.cn/info/2943/10933.htm) and Prof. [Jimin Zhang](https://railway.tongji.edu.cn/c5/e6/c4609a50662/page.htm) during my study in Tongji.
 
-You can find my CV here: [Zhengyang Wan's Curriculum Viate](../files/CV_ZhengyangWan.pdf)
+
+You can find my CV here: [Zhengyang Wan's Curriculum Viate](../files/CV_ZhengyangWan.pdf) or click the "Curriculum Vitae" in the header.
 
 > 📢***Note:***
 > This website is still under development. Please check back later for the full version and updates. Last updates: 2024-10-24.
@@ -20,10 +21,10 @@ Education
 ======
 - **Ph.D.**
 - **M.E in Transportation Engineering, 2025 (Expected)**
-    - College of Transportation Engineering, Tongji University, China
-    - Advisor: Associate Professor. Hechao Zhou
+    - College of Transportation Engineering, Tongji University, Shanghai, China
+    - Advisor: A.P. Hechao Zhou, Prof. Jimin Zhang (Co-advisor)
 - **B.E in Vehicle Engineering, 2022**
-    - Institute of Rail Transit, Tongji University, China
+    - Institute of Rail Transit, Tongji University, Shanghai, China
 
 
 Site-wide configuration
