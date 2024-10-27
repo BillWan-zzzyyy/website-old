@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* please find pdf version of my CV here: [here](http://billWan-zzzyyy.github.io/files/CV_ZhengyangWan.pdf). (last updated Sept, 2024)
+* please find pdf version of my CV [here](http://billWan-zzzyyy.github.io/files/CV_ZhengyangWan.pdf). (last updated Sept, 2024)
 
 Education
 ======
