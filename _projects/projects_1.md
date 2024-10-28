@@ -1,10 +1,10 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
-collection: talks
+title: "projects1"
+collection: projects
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /projects/2012-03-01-project-1
 venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
+date: 2024-03-01
 location: "San Francisco, California"
 ---
 
