@@ -37,13 +37,18 @@ layout: compress
     {% include scripts.html %}
       <!-- JavaScript to open all links in a new tab -->
   <script>
-    document.addEventListener("DOMContentLoaded", function() {
-      document.querySelectorAll('a').forEach(link => {
+  document.addEventListener("DOMContentLoaded", function() {
+    // 获取当前网站的主域名
+    const currentHost = window.location.host;
+
+    // 查找所有链接并只设置外部链接为 target="_blank"
+    document.querySelectorAll('a').forEach(link => {
+      // 比较链接的主域名与当前站点的主域名
+      if (link.host !== currentHost) {
         link.setAttribute('target', '_blank');
-      });
+      }
     });
+  });
   </script>
 </body>
-
-  </body>
 </html>
