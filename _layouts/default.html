@@ -37,18 +37,17 @@ layout: compress
     {% include scripts.html %}
   <script>
     document.addEventListener("DOMContentLoaded", function() {
-    // 获取当前网站的主域名
-    const currentHost = window.location.host;
+    // 定义当前主域名
+      const currentHost = "billwan-zzzyyy.github.io";
 
-    // 查找所有链接并只设置外部链接为 target="_blank"
-    document.querySelectorAll('a').forEach(link => {
-      // 比较链接的主域名与当前站点的主域名
-      if (link.host !== currentHost) {
-        link.setAttribute('target', '_blank');
+    // 查找所有链接，并为非当前主域名的链接添加 target="_blank"
+      document.querySelectorAll('a').forEach(link => {
+      // 如果链接的主机名不是当前主域名，则设置为新窗口打开
+        if (link.host !== currentHost && link.host !== "") {
+          link.setAttribute('target', '_blank');
       }
     });
   });
-
   </script>
 </body>
 </html>
