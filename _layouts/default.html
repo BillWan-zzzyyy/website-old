@@ -39,11 +39,10 @@ layout: compress
     window.addEventListener("load", function() {
     // 定义当前主域名
       const currentHost = "billwan-zzzyyy.github.io";
-
     // 查找所有链接，并为非当前主域名的链接添加 target="_blank"
       document.querySelectorAll('a').forEach(link => {
       // 如果链接的主机名不是当前主域名，则设置为新窗口打开
-        if (link.host !== currentHost && link.host !== "") {
+        if (link.host !== currentHost) {
           link.setAttribute('target', '_blank');
       }
     });
