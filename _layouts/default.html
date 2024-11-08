@@ -10,20 +10,34 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     <style>
-    a {
-      text-decoration: none !important; /* 去除下划线 */
-      color: #8E24AA; /* 修改为自定义颜色 */
-    }
-    a:hover {
-      color: #FF7043; /* 悬停时的颜色 */
-    }
-  </style>
+      /* 基本链接样式 */
+      a {
+        text-decoration: none !important; /* 去除下划线 */
+        color: #8E24AA; /* 默认链接颜色为紫色 */
+      }
+      a:hover {
+        color: #FF7043; /* 悬停时的颜色 */
+      }
+      
+      /* 激活页面链接的紫色样式 */
+      nav a.active {
+        color: #8E24AA; /* 当前页面的链接颜色 */
+        font-weight: bold; /* 可选：加粗字体 */
+      }
+    </style>
   </head>
-
+  
   <body>
-
     {% include browser-upgrade.html %}
     {% include masthead.html %}
+
+    <!-- 导航栏 -->
+    <nav>
+      <a href="/" class="{% if page.url == "/" %}active{% endif %}">首页</a>
+      <a href="/publications/" class="{% if page.url == "/publications/" %}active{% endif %}">Publications</a>
+      <a href="/projects/" class="{% if page.url == "/projects/" %}active{% endif %}">Projects</a>
+      <a href="/cv/" class="{% if page.url == "/cv/" %}active{% endif %}">About</a>
+    </nav>
 
     {{ content }}
 
@@ -35,18 +49,19 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-  <script>
-    window.addEventListener("load", function() {
-    // 定义当前主域名
-      const currentHost = "billwan-zzzyyy.github.io";
-    // 查找所有链接，并为非当前主域名的链接添加 target="_blank"
-      document.querySelectorAll('a').forEach(link => {
-      // 如果链接的主机名不是当前主域名，则设置为新窗口打开
-        if (link.host !== currentHost) {
-          link.setAttribute('target', '_blank');
-      }
-    });
-  });
-  </script>
-</body>
+
+    <script>
+      window.addEventListener("load", function() {
+        // 定义当前主域名
+        const currentHost = "billwan-zzzyyy.github.io";
+        // 查找所有链接，并为非当前主域名的链接添加 target="_blank"
+        document.querySelectorAll('a').forEach(link => {
+          // 如果链接的主机名不是当前主域名，则设置为新窗口打开
+          if (link.host !== currentHost) {
+            link.setAttribute('target', '_blank');
+          }
+        });
+      });
+    </script>
+  </body>
 </html>
