@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "万正阳 Zhengyang Wan"
-  pronouns         : "He/him"  
+  pronouns         : # Pron  
   bio              : "M.E in Transportation Engineering"
   location         : "Shanghai, China"
   employer         : "Tongji University"
