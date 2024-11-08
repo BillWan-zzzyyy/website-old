@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhengyang's Home Page"
+title                    : "Zhengyang's Home"
 title_separator          : "-"
 name                     : &name "Zhengyang Wan"
 description              : &description "personal description"
