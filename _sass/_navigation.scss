@@ -48,56 +48,39 @@
   }
 }
 
-/* Priority plus navigation */
-.greedy-nav {
+/* 导航栏悬停和当前页面颜色调整 */
+.greedy-nav a {
   position: relative;
-  min-width: 250px;
-  background: $background-color;
+  color: $masthead-link-color; /* 默认链接颜色 */
+  text-decoration: none;
 
-  a {
-    display: block;
-    margin: 0 1rem;
-    padding: 0.5rem 0;
-    color: $masthead-link-color;
-    text-decoration: none;
-    position: relative;
-
-    &:hover {
-      color: $masthead-link-color-hover;
-    }
-
-    /* 添加橙色动画横线 */
-    &:before {
-      content: "";
-      position: absolute;
-      left: 0;
-      bottom: 0;
-      height: 4px;
-      background: #FF7043; /* 橙色 */
-      width: 100%;
-      -webkit-transition: $global-transition;
-      transition: $global-transition;
-      -webkit-transform: scaleX(0);
-          -ms-transform: scaleX(0);
-              transform: scaleX(0); /* 初始隐藏 */
-    }
-
-    &:hover:before {
-      -webkit-transform: scaleX(1);
-          -ms-transform: scaleX(1);
-              transform: scaleX(1); /* 悬停时显示橙色横线 */
-    }
+  /* 添加橙色横线动画 */
+  &:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 4px;
+    background: #FF7043; /* 橙色横线 */
+    width: 100%;
+    transform: scaleX(0); /* 初始隐藏 */
+    transition: transform 0.3s ease;
   }
 
-  /* 当前页面的导航项显示为紫色 */
-  .active {
-    color: #8E24AA; /* 紫色 */
-    font-weight: bold;
+  &:hover:before {
+    transform: scaleX(1); /* 悬停时显示橙色横线 */
+  }
+}
 
-    &:before {
-      background: #8E24AA; /* 紫色横线 */
-      transform: scaleX(1); /* 保持横线显示 */
-    }
+/* 当前页面导航项的颜色设置为紫色 */
+.greedy-nav .active {
+  color: #8E24AA; /* 紫色字体 */
+  font-weight: bold;
+
+  /* 保持横线为紫色 */
+  &:before {
+    background: #8E24AA;
+    transform: scaleX(1); /* 保持横线显示 */
   }
 }
 
@@ -119,16 +102,12 @@
     }
   }
 
+  /* 设置当前页面为紫色 */
   .active {
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
     color: #8E24AA; /* 激活状态为紫色 */
     font-weight: bold;
-    border-radius: $border-radius;
-
-    &:hover {
-      color: #8E24AA; /* 悬停时保持紫色 */
-    }
   }
 }
