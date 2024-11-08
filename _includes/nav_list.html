@@ -9,21 +9,17 @@
     {% for nav in navigation %}
       <li>
         {% if nav.url %}
-          {% comment %}检查是否为内部链接{% endcomment %}
-          {% if nav.url contains "://" %}
-            {% assign domain = "" %}
-          {% else %}
-            {% assign domain = base_path %}
-          {% endif %}
+          {% comment %}定义基础域名以确保完整URL匹配{% endcomment %}
+          {% assign full_url = "https://billwan-zzzyyy.github.io" | append: nav.url %}
 
           {% comment %}设置“active”类在当前页面{% endcomment %}
-          {% if nav.url == page.url %}
+          {% if full_url == page.url %}
             {% assign active = "active" %}
           {% else %}
             {% assign active = "" %}
           {% endif %}
 
-          <a href="{{ domain }}{{ nav.url }}" class="{{ active }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
+          <a href="{{ full_url }}" class="{{ active }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}
@@ -31,21 +27,16 @@
         {% if nav.children != null %}
         <ul>
           {% for child in nav.children %}
-            {% comment %}检查是否为内部链接{% endcomment %}
-            {% if child.url contains "://" %}
-              {% assign domain = "" %}
-            {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
+            {% assign child_full_url = "https://billwan-zzzyyy.github.io" | append: child.url %}
 
             {% comment %}设置“active”类在当前子页面{% endcomment %}
-            {% if child.url == page.url %}
+            {% if child_full_url == page.url %}
               {% assign active = "active" %}
             {% else %}
               {% assign active = "" %}
             {% endif %}
 
-            <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>
+            <li><a href="{{ child_full_url }}" class="{{ active }}">{{ child.title }}</a></li>
           {% endfor %}
         </ul>
         {% endif %}
