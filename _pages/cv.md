@@ -12,7 +12,9 @@ redirect_from:
 
 ***To boldly go where no man has gone before.***
 
-please find pdf version of my CV [here](http://billWan-zzzyyy.github.io/files/CV_ZhengyangWan.pdf). (last updated Sept, 2024)
+---
+
+#### 📎：please find pdf version of my CV [here](http://billWan-zzzyyy.github.io/files/CV_ZhengyangWan.pdf). (last updated Sept, 2024)
 
 Education
 ======
