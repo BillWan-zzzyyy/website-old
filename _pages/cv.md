@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-> _To boldly go where no man has gone before._
+                                                                              > _To boldly go where no man has gone before._
 
 please find pdf version of my CV [here](http://billWan-zzzyyy.github.io/files/CV_ZhengyangWan.pdf). (last updated Sept, 2024)
 
