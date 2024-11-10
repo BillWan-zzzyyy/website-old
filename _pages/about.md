@@ -22,13 +22,13 @@ Education
 
   🎓**M.E. in Transportation Engineering, 2025 (Expected)**
 
-- College of Transportation Engineering, Tongji University, Shanghai, China
-- Advisor: Assoc.Prof. Hechao Zhou, Prof. Jimin Zhang (Co-advisor)
+    - College of Transportation Engineering, Tongji University, Shanghai, China
+    - Advisor: Assoc.Prof. Hechao Zhou, Prof. Jimin Zhang (Co-advisor)
 
-🎓**B.E. in Vehicle Engineering, 2022**
+  🎓**B.E. in Vehicle Engineering, 2022**
 
-- Institute of Rail Transit, Tongji University, Shanghai, China
-- Thesis advisor: Assoc.Prof. Hechao Zhou
+    - Institute of Rail Transit, Tongji University, Shanghai, China
+    - Thesis advisor: Assoc.Prof. Hechao Zhou
 
 
 Site-wide configuration
