@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-* please find pdf version of my CV [here](http://billWan-zzzyyy.github.io/files/CV_ZhengyangWan.pdf). (last updated Sept, 2024)
+> _To boldly go where no man has gone before._
+
+please find pdf version of my CV [here](http://billWan-zzzyyy.github.io/files/CV_ZhengyangWan.pdf). (last updated Sept, 2024)
 
 Education
 ======
-* Ph.D in
-* M.E. in Transportation Engineering, Tongji University, 2025
-* B.E. in Vehicle Engineering, Tongji Univeristy, 2022
+* Incoming Ph.D. Student in
+* M.E. in Transportation Engineering, Tongji University, 2022-2025
+* B.E. in Vehicle Engineering, Tongji Univeristy, 2018-2022
 
 Publications
 ======
@@ -28,12 +30,6 @@ Work experience
 * Spring 2022: Data analyst Intern
   * Cargill Investment China Ltd
 
-Skills
-======
-* MATLAB & SIMULINK
-* SIMPACK
-* CARLA
-* Ubuntu
   
 Service and leadership
 ======
