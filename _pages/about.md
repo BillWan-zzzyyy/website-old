@@ -18,14 +18,14 @@ Currently I am pursuing M.E in Transportation Engineering at [College of Transpo
 
 Education
 ======
-🏃‍♂️‍➡️ **Incoming Ph.D. Student at**
+  🏃‍♂️‍➡️ **Incoming Ph.D. Student at**
 
-🎓**M.E. in Transportation Engineering, 2025 (Expected)**
+  🎓**M.E. in Transportation Engineering, 2025 (Expected)**
 
 - College of Transportation Engineering, Tongji University, Shanghai, China
 - Advisor: Assoc.Prof. Hechao Zhou, Prof. Jimin Zhang (Co-advisor)
 
-🎓**B.E. in Vehicle Engineering, 2022**
+  🎓**B.E. in Vehicle Engineering, 2022**
 
 - Institute of Rail Transit, Tongji University, Shanghai, China
 - Thesis advisor: Assoc.Prof. Hechao Zhou
