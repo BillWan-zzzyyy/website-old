@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "About Myself♐"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# About Myself♐
 
 Hello there! I am Zhengyang Wan, "万正阳" in Chinese. 
 
