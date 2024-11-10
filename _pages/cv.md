@@ -10,13 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-***To boldly go where no man has gone before.***
-                                       
+please find pdf version of my CV [here](http://billWan-zzzyyy.github.io/files/CV_ZhengyangWan.pdf). (last updated Sept, 2024)
 
 ---
-
-
-please find pdf version of my CV [here](http://billWan-zzzyyy.github.io/files/CV_ZhengyangWan.pdf). (last updated Sept, 2024)
 
 Education
 ======
@@ -34,8 +30,7 @@ Work experience
 ======
 * Spring 2022: Data analyst Intern
   * Cargill Investment China Ltd
-
-  
+ 
 Service and leadership
 ======
 * Chairman of Tongji Football Association (2021.9-2022.9)
