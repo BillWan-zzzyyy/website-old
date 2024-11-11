@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-please find pdf version of my CV [here](http://billWan-zzzyyy.github.io/files/CV_ZhengyangWan.pdf). (last updated Sept, 2024)
+please find pdf version of my CV [here](http://billWan-zzzyyy.github.io/files/CV_ZhengyangWan-2409.pdf). (last updated Sept, 2024)
 
 ---
 
