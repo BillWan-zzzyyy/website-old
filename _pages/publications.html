@@ -27,6 +27,7 @@ p {
 <hr /> 
 <p style="font-size: 26px; color: black; font-style: normal; font-weight: bold; text-align: left;">Selected Publications</p>
 
+
 {% include base_path %}
 {% if site.publication_category %}
   {% assign counter = 1 %} <!-- 初始化序号计数器 -->
@@ -35,19 +36,16 @@ p {
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
-      <p>[{{ counter }}] {{ post.citation }}</p> <!-- 显示序号和 citation -->
+      <p style="color: black; font-family: 'Arial', sans-serif;">[{{ counter }}] {{ post.citation }}</p> <!-- 显示序号和 citation -->
       {% assign counter = counter | plus: 1 %} <!-- 序号加一 -->
     {% endfor %}
   {% endfor %}
 {% else %}
   {% assign counter = 1 %} <!-- 初始化序号计数器 -->
   {% for post in site.publications reversed %}
-    <p>[{{ counter }}] {{ post.citation }}</p> <!-- 显示序号和 citation -->
+    <p style="color: blue; font-family: 'Arial', sans-serif;">[{{ counter }}] {{ post.citation }}</p> <!-- 显示序号和 citation -->
     {% assign counter = counter | plus: 1 %} <!-- 序号加一 -->
   {% endfor %}
 {% endif %}
-
-
-
 
 
