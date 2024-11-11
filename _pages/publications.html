@@ -4,19 +4,17 @@ title: ""
 permalink: /publications/
 author_profile: false
 ---
-
-<p style="font-size: 24px; color: gray; font-style: italic;">To boldly go where no one has gone before.</p>
-
+<p style="font-size: 24px; color: gray; font-style: italic; text-align: center;">To boldly go where no one has gone before.</p>
 <hr /> 
-
 {% if site.author.googlescholar %}
   <div class="wordwrap">
-    You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+     <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
   </div>
 {% endif %}
+<hr /> 
+<p style="font-size: 24px; color: black; font-style: italic; text-align: left;">Selected Publications</p>
 
 {% include base_path %}
-
 {% if site.publication_category %}
   {% assign counter = 1 %} <!-- 初始化序号计数器 -->
   {% for category in site.publication_category %}
