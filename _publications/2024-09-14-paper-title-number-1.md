@@ -8,6 +8,8 @@ date: 2024-09-14
 venue: 'Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering. 2024'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://journals.sagepub.com/doi/full/10.1177/09544070241280744
+        
+        
               
         
         '
