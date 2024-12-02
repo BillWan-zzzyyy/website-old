@@ -18,7 +18,7 @@ Currently I am pursuing M.E in Transportation Engineering at [College of Transpo
 
 ## Education
 
-  🏃‍♂️‍➡️ **Incoming Ph.D. Student at**
+  🏃‍♂️‍➡️ **Incoming Ph.D. Student at University of Wisconsin-Madison**
 
   🎓 **M.E. in Transportation Engineering, 2025 (Expected)**
 
